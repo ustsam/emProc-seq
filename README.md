@@ -12,9 +12,9 @@ Circular sequencing was initially developed by [Andino Group at UCSF](https://an
 
 However, the original was written in hard-code form for repeat and read length. The code is rewritten to perform >=2 repeat identification and variable readlength. The relocalization scripts are rewritten to fit the use of bwa-mem as mapper. Selection of the relocalized read is also changed to be more stringent parameter.
 
-## Stimulation data
+## Simulation data
 
-Script for generating stimulation data is located at directory named as stimulation_script/. It is a matlab script created by Dr. Biaobin Jiang from Prof. Jiguang Wang's group at HKUST.
+Script for generating simulation data is located at directory named as simulation_script/. It is a matlab script created by Dr. Biaobin Jiang from Prof. Jiguang Wang's group at HKUST.
 
 ## Usage
 1. Download the zipped script file.
