@@ -22,7 +22,7 @@ Demo data can be run as following:
 2. Unzip the file.
 3. Enter script directory
 3. Compile the codes by typing `python setup_newreloc.py build_ext --inplace`.
-4. mkdir demo_data_real_time
+4. `mkdir demo_data_real_time`
 5. Call the function using `./run_noQsfilter_bwa.sh ./demo_data_real_time ./reference/rDNA1.fa ./ DUMMY 2 600 ./demo_data/AY1273.fastq.gz `
 
 
