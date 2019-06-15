@@ -16,6 +16,16 @@ However, the original was written in hard-code form for repeat and read length. 
 
 Script for generating simulation data is located at directory named as simulation_script/. It is a matlab script created by Dr. Biaobin Jiang from Prof. Jiguang Wang's group at HKUST. AY1273.fastq.gz are provided as one set of demo data.
 
+Demo data can be run as following:
+
+1. Download the zipped script file.
+2. Unzip the file.
+3. Enter script directory
+3. Compile the codes by typing `python setup_newreloc.py build_ext --inplace`.
+4. mkdir demo_data_real_time
+5. Call the function using `./run_noQsfilter_bwa.sh ./demo_data_real_time ./reference/rDNA1.fa ./ DUMMY 2 600 ./demo_data/AY1273.fastq.gz `
+
+
 ## Usage
 1. Download the zipped script file.
 2. Unzip the file.
