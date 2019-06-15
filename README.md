@@ -14,7 +14,7 @@ However, the original was written in hard-code form for repeat and read length. 
 
 ## Simulation data
 
-Script for generating simulation data is located at directory named as simulation_script/. It is a matlab script created by Dr. Biaobin Jiang from Prof. Jiguang Wang's group at HKUST. AY1273.fastq.gz are provided as one set of demo data.
+Script for generating simulation data is located at directory named as simulation_script/. It is a matlab script created by Dr. Biaobin Jiang from Prof. Jiguang Wang's group at HKUST. AY1273.fastq.gz are provided as one set of demo data, typical run time would be around 20-30 minutes.
 
 Demo data can be run as following:
 
