@@ -49,6 +49,8 @@ NOTE 1: Cython requires a compiler. For OSX this may require installation of Xco
 
 NOTE 2: bwa and samtools binaries must be in the PATH.
 
+NOTE 3: Install time are estimated to be no more than 1.5 hours.
+
 
 ## Reference
 [1] Acevedo, A., Brodsky, L., & Andino, R. (2014). Mutational and fitness landscapes of an RNA virus revealed through population sequencing. Nature, 505, pp.686-690.
