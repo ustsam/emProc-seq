@@ -29,6 +29,11 @@ Please check methodology.pdf for detail of the script and the meaning of all gen
 
 ## System requirements
 
+The following OS had been used for running the script.
+Ubuntu 16.04 LTS (Xenial Xerus)
+CentOS release 6.6 (Final)
+
+
 The following packages are prerequisites for using emProc-seq
 
 1. Python (version 2.7.12)    
