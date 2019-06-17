@@ -1,0 +1,9 @@
+Consensus Generation Stats
+0	Poor quality
+0	No repeats detected
+2	Abnormal repeat length
+0	Low sequence identity between repeats
+794229	Consensus sequences
+794231	Total reads
+
+99.9997481841	% Consensus sequence generated
