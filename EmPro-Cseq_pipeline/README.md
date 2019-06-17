@@ -2,7 +2,7 @@
 Python Script for treating emProc-seq data
 
 ## Ownership
-[Xuhui HUANG Lab at HKUST]
+[Xuhui HUANG Lab at HKUST]  
 [Jihuang WANG Lab at HKUST]
 
 ## Status
