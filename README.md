@@ -38,9 +38,9 @@ Demo data can be run as following:
 
 To obtain figures in the manuscript, please run the following three main functions:
 
-calling_transcription_errors.m
-plotFigure1.m
-plotFigure2.m
+calling_transcription_errors.m 
+plotFigure1.m 
+plotFigure2.m 
 
 It is a matlab script created by Dr. Biaobin Jiang(https://github.com/bbjiang) from Prof. Jiguang Wang's group at HKUST.
 
