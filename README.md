@@ -2,7 +2,8 @@
 Python Script for treating emProc-seq data
 
 ## Ownership
-[Huang Lab at HKUST]
+[Xuhui HUANG Lab at HKUST]
+[Jihuang WANG Lab at HKUST]
 
 ## Status
 Active Development
@@ -32,6 +33,15 @@ Demo data can be run as following:
 3. Enter script directory
 3. Compile the codes by typing `python setup_newreloc.py build_ext --inplace`.
 4. Call the function using `./run_noQsfilter_bwa.sh {PATH of the output directory} {PATH of the reference file} {PATH of the script directory} DUMMY 2 ${twice of the max readlength} ${PATH of the data file in gzipped form}`. The data file are suggested to process with triming software for adaptor and low qulaity base before running this script.
+
+## Figure plotting
+
+To obtain figures in the manuscript, please run the following three main functions:
+calling_transcription_errors.m
+plotFigure1.m
+plotFigure2.m
+
+It is a matlab script created by Dr. Biaobin Jiang(https://github.com/bbjiang) from Prof. Jiguang Wang's group at HKUST.
 
 ## Methodology:
 
